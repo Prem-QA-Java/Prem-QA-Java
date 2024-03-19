@@ -17,15 +17,11 @@
 ###
 
 <div align="left">
-<img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" height="40" alt="cassandra logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
@@ -34,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins logo"  />
@@ -44,11 +41,15 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/353413/appium.svg" height="40" alt="appium logo"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" height="40" alt="restassured logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" height="40" alt="cassandra logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" height="40" alt="junit logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/12528662?s=48&v=4" height="40" alt="testng logo"  />
   <img width="12" />
 </div>
 
@@ -65,12 +66,12 @@
 ###
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prem-QA-Java&show_icons=true&locale=en&layout=compact" alt="Prem-QA-Java" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prem-QA-Java&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="Prem-QA-Java" /></p>
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prem-QA-Java&show_icons=true&locale=en" alt="Prem-QA-Java" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prem-QA-Java&show_icons=true&theme=github_dark_dimmed&locale=en" alt="Prem-QA-Java" /></p>
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prem-QA-Java&" alt="Prem-QA-Java" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prem-QA-Java&theme=github_dark_dimmed" alt="Prem-QA-Java" /></p>
