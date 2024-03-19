@@ -66,7 +66,7 @@
 ###
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prem-QA-Java&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="Prem-QA-Java" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prem-QA-Java&show_icons=true&locale=en&theme=github_dark_dimmed" alt="Prem-QA-Java" /></p>
 
 ###
 
