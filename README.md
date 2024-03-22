@@ -2,6 +2,7 @@
 <h3 align="left">A passionate automation tester from India</h3>
 <p>
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Prem-QA-Java&label=Visitors&color=0e75b6&style=flat" alt="Prem-QA-Java" /> </a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"> <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"> </a>
 <a align="left"> <img src="https://img.shields.io/github/followers/Prem-QA-Java" alt="Prem-QA-Java" /> </a>
 </p>
 
@@ -66,4 +67,10 @@
 
 </details>
 
-
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻"
+    </p>
+</samp>
